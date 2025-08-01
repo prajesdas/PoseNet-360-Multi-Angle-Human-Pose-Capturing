@@ -1,9 +1,8 @@
 
 
-```markdown
-# PoseNet 360 🕺🎥
+##  PoseNet 360 🕺🎥
 
-**PoseNet 360** is a real-time multi-angle human motion capture system that reconstructs 3D human poses using synchronized camera feeds. Built for immersive applications like AR/VR, sports biomechanics, and motion analysis, PoseNet 360 bridges 2D pose estimation with 3D reconstruction to deliver skeletal animation-ready outputs.
+PoseNet 360 is a real-time multi-angle human motion capture system that reconstructs 3D human poses using synchronized camera feeds. Built for immersive applications like AR/VR, sports biomechanics, and motion analysis, PoseNet 360 bridges 2D pose estimation with 3D reconstruction to deliver skeletal animation-ready outputs.
 
 ---
 
