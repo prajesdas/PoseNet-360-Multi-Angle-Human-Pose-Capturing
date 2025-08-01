@@ -34,6 +34,9 @@ PoseNet360/
 └── README.md
 
 ````
+<img width="1913" height="969" alt="Screenshot 2025-08-01 233055" src="https://github.com/user-attachments/assets/74156dbe-86bc-41a2-adf6-44e0516e2953" />
+
+<img width="1913" height="975" alt="Screenshot 2025-08-01 233043" src="https://github.com/user-attachments/assets/1fb3e9cc-d130-4b1f-bd24-ab21d62d4416" />
 
 ---
 
@@ -125,11 +128,5 @@ This project is licensed under the MIT License. See `LICENSE` file for details.
 
 ---
 
-## 📬 Contact
-
-Created by **PoseNet360 Team**
-For questions or collaborations, reach out to: \[[your-email@example.com](mailto:your-email@example.com)]
-
----
 
 
